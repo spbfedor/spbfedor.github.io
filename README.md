@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEyMTEzMTgsIm5iZiI6MTc1MTIxMTAxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDE1MzAxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNWFhOTg1ZDc0ODhlY2M2M2YzMDY5NjBmOGM0NTI0OTNmYTUzMzJjMGY5NDViYzgzODRkMjMzOGFjODdiYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pK6GT2nrKRxM4UGFdr8wpbNDTAydrkCjWcCYFKR9Jis"  />
+  <img height="300" width="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlsNGFwbnQ0Z2ltamNqdDV4NmxseDhpcGkyam5pcWR1ZnJsYXFnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
 ###
