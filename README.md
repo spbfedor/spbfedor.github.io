@@ -24,7 +24,7 @@
 
 <p align="left">Свой путь разработчика я начал в 2021 году, попробовал себя на Stepik и сразу же влюбился в это дело. После пошел изучать Python в ЯндексПрактикум, но мне оказалось этого недостаточно, хотелось более глубокого понимания, как устроена разработка и я пошел изучать C++. После завершения курса по "Плюсам" я вернулся к "Питону", повторил материал, поучаствовал в хакатоне, а на данный момент нарабатываю практику в стартапе и занимаюсь своими проектами.<br><br>- 📚 Завершил курсы по разработке на C++ от школы Skillfactory!<br>- ⚡ Завершил курсы по разработке на Python от Яндекс Практикум!<br>- 🔭 Принимал участие в хакатоне от ВТБ.</p>
 
-### Languages
+### Языки:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
@@ -33,7 +33,7 @@
 
 ###
 
-### Python and C++ skills
+### Навыки Python и C++:
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
 ![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
@@ -43,7 +43,7 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-blueviolet?style=for-the-badge&logo=pytest&logoColor=White)
 ![Qt](https://img.shields.io/badge/-Qt-blueviolet?style=for-the-badge&logo=qt&logoColor=White)
 
-### Other skills
+### Другие навыки:
 ![Html](https://img.shields.io/badge/-Html-blue?style=for-the-badge&logo=Html&logoColor=White)
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=White)
 ![linux](https://img.shields.io/badge/-linux-blue?style=for-the-badge&logo=linux&logoColor=White)
@@ -56,7 +56,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=postman&logoColor=White)
 
 ###
-<h3 align="left">📕 Некоторые из моих проектов на Python</h3>
+<h3 align="left">📕 Некоторые из моих проектов на Python:</h3>
 
 - [Телеграм-бот для получения какой либо информации со сторонних ресурсов](https://github.com/spbfedor/telegram_bot)
 - [API платформы для блогинга](https://github.com/spbfedor/api_final_yatube)
@@ -65,7 +65,7 @@
 - [Программный модуль фитнес-трекера](https://github.com/spbfedor/hw_python_oop)
 
 ###
-<h3 align="left">📕 Некоторые из моих проектов на C++</h3>
+<h3 align="left">📕 Некоторые из моих проектов на C++:</h3>
 
 - [Графический интефейс на Qt для приложеня "Чат"](https://github.com/spbfedor/GUI_CHAT)
 - [Консольный чат](https://github.com/spbfedor/cp_console_chat)
@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   Моя статистика:</h3>
 
 ###
 
