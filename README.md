@@ -29,8 +29,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 
-<h3 align="left">🛠 Технологии:</h3>
-
 ###
 
 ### Навыки Python и C++:
