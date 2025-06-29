@@ -32,7 +32,7 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)###
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 
 <h3 align="left">🛠 Технологии:</h3>
 
@@ -59,4 +59,4 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=spbfedor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spbfedor)](https://github.com/spbfedor/github-readme-stats)
