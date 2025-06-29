@@ -27,26 +27,33 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C&logoColor=blue)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
 
-### Python skills
+### Python and C++ skills
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
 ![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
 ![Poetry](https://img.shields.io/badge/-Poetry-blueviolet?style=for-the-badge&logo=Poetry&logoColor=White)
+![Pytest](https://img.shields.io/badge/-Pytest-blueviolet?style=for-the-badge&logo=pytest&logoColor=White)
+![Qt](https://img.shields.io/badge/-Qt-blueviolet?style=for-the-badge&logo=qt&logoColor=White)
 
 ### Other skills
 ![Html](https://img.shields.io/badge/-Html-blue?style=for-the-badge&logo=Html&logoColor=White)
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=White)
-![scss](https://img.shields.io/badge/-scss-blue?style=for-the-badge&logo=scss&logoColor=White)
+![linux](https://img.shields.io/badge/-linux-blue?style=for-the-badge&logo=linux&logoColor=White)
+![macOS](https://img.shields.io/badge/-macOS-blue?style=for-the-badge&logo=macos&logoColor=White)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=White)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=White)
 ![docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=White)
 ![docker-compose](https://img.shields.io/badge/-dockercompose-blue?style=for-the-badge&logo=dockercompose&logoColor=White)
+![NGINX](https://img.shields.io/badge/-NGINX-blue?style=for-the-badge&logo=nginx&logoColor=White)
+![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=postman&logoColor=White)
 
 ###
 <h3 align="left">📕 Некоторые из моих проектов на Python</h3>
@@ -56,6 +63,13 @@
 - [Платформа для блогинга](https://github.com/spbfedor/yatube_final)
 - [Тестирование проекта на Django](https://github.com/spbfedor/yatube_tests)
 - [Программный модуль фитнес-трекера](https://github.com/spbfedor/hw_python_oop)
+
+###
+<h3 align="left">📕 Некоторые из моих проектов на C++</h3>
+
+- [Графический интефейс на Qt для приложеня "Чат"](https://github.com/spbfedor/GUI_CHAT)
+- [Консольный чат](https://github.com/spbfedor/cp_console_chat)
+- [Хэш таблица для чата](https://github.com/spbfedor/hash_table_cpp)
 
 ###
 
