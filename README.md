@@ -30,6 +30,7 @@
 ### Навыки Python и C++:
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
 ![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
+![API](https://img.shields.io/badge/-API-blueviolet?style=for-the-badge&logo=API&logoColor=White)
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
