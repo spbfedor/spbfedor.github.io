@@ -40,16 +40,17 @@
 ![Qt](https://img.shields.io/badge/-Qt-blueviolet?style=for-the-badge&logo=qt&logoColor=White)
 
 ### Другие навыки:
-![Html](https://img.shields.io/badge/-Html-blue?style=for-the-badge&logo=Html&logoColor=White)
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css&logoColor=White)
 ![linux](https://img.shields.io/badge/-linux-blue?style=for-the-badge&logo=linux&logoColor=White)
 ![macOS](https://img.shields.io/badge/-macOS-blue?style=for-the-badge&logo=macos&logoColor=White)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=White)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=White)
 ![docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=White)
-![docker-compose](https://img.shields.io/badge/-dockercompose-blue?style=for-the-badge&logo=dockercompose&logoColor=White)
 ![NGINX](https://img.shields.io/badge/-NGINX-blue?style=for-the-badge&logo=nginx&logoColor=White)
 ![Postman](https://img.shields.io/badge/-Postman-blue?style=for-the-badge&logo=postman&logoColor=White)
+<br>
+![Html](https://img.shields.io/badge/-Html-blue?style=for-the-badge&logo=Html&logoColor=White)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=White)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=White)
+![docker-compose](https://img.shields.io/badge/-dockercompose-blue?style=for-the-badge&logo=dockercompose&logoColor=White)
 
 ###
 <h3 align="left">📕 Некоторые из моих проектов на Python:</h3>
