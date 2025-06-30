@@ -8,6 +8,10 @@
 
 <h1 align="center">Привет, меня зовут Федор!<br> Я бэкенд разработчик из Санкт-Петербурга.</h1>
 
+### 📫 Контакты  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/spbfedor)  
+✉️ `spbfedor@yandex.ru`
+
 ###
 
 <div align="center">
@@ -80,4 +84,5 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spbfedor)](https://github.com/spbfedor/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=spbfedor&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spbfedor&layout=compact&theme=radical)
