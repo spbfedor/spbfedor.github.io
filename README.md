@@ -31,9 +31,10 @@
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
 ![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
 ![API](https://img.shields.io/badge/-api-blueviolet?style=for-the-badge&logo=api&logoColor=White)
-![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
+<br>
+![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Poetry](https://img.shields.io/badge/-Poetry-blueviolet?style=for-the-badge&logo=Poetry&logoColor=White)
 ![Pytest](https://img.shields.io/badge/-Pytest-blueviolet?style=for-the-badge&logo=pytest&logoColor=White)
 ![Qt](https://img.shields.io/badge/-Qt-blueviolet?style=for-the-badge&logo=qt&logoColor=White)
