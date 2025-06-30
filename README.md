@@ -70,8 +70,8 @@
 - [Хэш таблица для чата](https://github.com/spbfedor/hash_table_cpp)
 
 ### 📌 Полезные сниппеты  
-- [Async парсер на aiohttp](https://gist.github.com/spbfedor/...)  
-- [Django + PostgreSQL](https://gist.github.com/spbfedor/...)  
+- [Async парсер на aiohttp](https://gist.github.com/spbfedor/8e46b1f734b3aa5094e81a582b132af5)  
+- [Django + PostgreSQL](https://gist.github.com/spbfedor/03d6a7beeb92b837eb23f08f14ae41bb)  
   
 
 ###
