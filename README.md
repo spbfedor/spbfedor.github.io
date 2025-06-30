@@ -1,12 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlkemJwMnMza21leWg0M282dnFtZWc3cnB0bmV0Z3YyMjh0OW5sYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+  <img height="300" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlkemJwMnMza21leWg0M282dnFtZWc3cnB0bmV0Z3YyMjh0OW5sYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 </div>
-
-###
-
-<h1 align="center">Привет, меня зовут Федор!<br> Я бэкенд разработчик из Санкт-Петербурга.</h1>
 
 ### 📫 Контакты  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/spbfedor)  
@@ -14,11 +10,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://t.me/spbfedor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+<h1 align="center">Привет, меня зовут Федор!<br> Я бэкенд разработчик из Санкт-Петербурга.</h1>
 
 ###
 
