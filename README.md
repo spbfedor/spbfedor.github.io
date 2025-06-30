@@ -69,6 +69,11 @@
 - [Консольный чат](https://github.com/spbfedor/cp_console_chat)
 - [Хэш таблица для чата](https://github.com/spbfedor/hash_table_cpp)
 
+### 📌 Полезные сниппеты  
+- [Async парсер на aiohttp](https://gist.github.com/spbfedor/...)  
+- [Django + PostgreSQL](https://gist.github.com/spbfedor/...)  
+  
+
 ###
 
 <h3 align="left">🔥   Моя статистика:</h3>
