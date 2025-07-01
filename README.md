@@ -67,9 +67,6 @@
 - [Django + PostgreSQL](https://gist.github.com/spbfedor/03d6a7beeb92b837eb23f08f14ae41bb)
 
 ###
-- ![CI](https://github.com/spbfedor/telegram_bot/tree/master/.github/workflows/lint.yml)
-
-###
 <h3 align="left">🔥   Моя статистика:</h3>
 
 ###
