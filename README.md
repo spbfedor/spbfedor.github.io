@@ -9,23 +9,17 @@
 ✉️ `spbfedor@yandex.ru`
 
 ###
-
 <h1 align="center">Привет, меня зовут Федор!<br> Я бэкенд разработчик из Санкт-Петербурга.</h1>
 
 ###
-
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
-
 <p align="left">Свой путь разработчика я начал в 2021 году, попробовал себя на Stepik и сразу же влюбился в это дело. После пошел изучать Python в ЯндексПрактикум, но мне оказалось этого недостаточно, хотелось более глубокого понимания, как устроена разработка и я пошел изучать C++. После завершения курса по "Плюсам" я вернулся к "Питону", повторил материал, поучаствовал в хакатоне, а на данный момент нарабатываю практику в стартапе и занимаюсь своими проектами.<br><br>- 📚 Завершил курсы по разработке на C++ от школы Skillfactory!<br>- ⚡ Завершил курсы по разработке на Python от Яндекс Практикум!<br>- 🔭 Принимал участие в хакатоне от ВТБ.</p>
 
 ### Языки:
-
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
-
-###
 
 ### Навыки Python и C++:
 ![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
@@ -70,14 +64,14 @@
 
 ### 📌 Полезные сниппеты  
 - [Async парсер на aiohttp](https://gist.github.com/spbfedor/8e46b1f734b3aa5094e81a582b132af5)  
-- [Django + PostgreSQL](https://gist.github.com/spbfedor/03d6a7beeb92b837eb23f08f14ae41bb)  
-  
+- [Django + PostgreSQL](https://gist.github.com/spbfedor/03d6a7beeb92b837eb23f08f14ae41bb)
 
 ###
+- ![CI](https://github.com/spbfedor/parser_cian/actions/workflows/lint.yml/badge.svg)
 
+###
 <h3 align="left">🔥   Моя статистика:</h3>
 
 ###
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=spbfedor&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spbfedor&layout=compact&theme=radical)
