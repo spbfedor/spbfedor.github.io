@@ -65,6 +65,7 @@
 ### 📌 Полезные сниппеты  
 - [Async парсер на aiohttp](https://gist.github.com/spbfedor/8e46b1f734b3aa5094e81a582b132af5)  
 - [Django + PostgreSQL](https://gist.github.com/spbfedor/03d6a7beeb92b837eb23f08f14ae41bb)
+- [Работа с файлом на C++](https://gist.github.com/spbfedor/b7078aa75f5dd6a8e8fcba7a654091d1)
 
 ###
 <h3 align="left">🔥   Моя статистика:</h3>
